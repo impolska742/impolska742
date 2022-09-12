@@ -1,4 +1,4 @@
-<img src="./header.jpg" alt="header-img" />
+<img src="./header.png" alt="header-img" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impolska742&label=Profile%20views&color=0e75b6&style=flat" alt="impolska742" /> </p>
 
