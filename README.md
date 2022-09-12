@@ -45,3 +45,6 @@
 [![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=impolska742&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impolska742&" alt="impolska742" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
