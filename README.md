@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impolska742&show_icons=true&locale=en" alt="impolska742" /></p>
 
-[![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=impolska742&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=impolska742&bg_color=272626&color=0de744&line=00ff4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impolska742&" alt="impolska742" /></p>
 
