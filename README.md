@@ -46,4 +46,19 @@
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=impolska742&bg_color=272626&color=0de744&line=00ff4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 11 September 2022 - To: 07 November 2023
+
+Total Time: 8 hrs 36 mins
+
+Java              6 hrs 25 mins   ██████████████████▒------   74.64 %
+TypeScript        59 mins         ██▓----------------------   11.47 %
+JavaScript        40 mins         ██-----------------------   07.91 %
+Java Properties   28 mins         █ -----------------------   05.59 %
+Solidity          1 min           >------------------------   00.35 %
+Markdown          0 secs          -------------------------   00.02 %
+Other             0 secs          -------------------------   00.01 %
+```
+
 <!--END_SECTION:waka-->
