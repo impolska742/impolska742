@@ -1,10 +1,15 @@
 <img src="./header.png" alt="header-img" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=impolska742&label=Profile%20views&color=0e75b6&style=flat" alt="impolska742" /> </p>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=impolska742&label=Profile%20views&color=0e75b6&style=flat" alt="impolska742" /> 
+<a href="https://wakatime.com/@1b09af48-ce6e-4843-a87c-4258bb35d460"><img src="https://wakatime.com/badge/user/1b09af48-ce6e-4843-a87c-4258bb35d460.svg" alt="Total time coded since Sep 12 2022" /></a>
+
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impolska742" alt="impolska742" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/polska742" target="blank"><img src="https://img.shields.io/twitter/follow/polska742?logo=twitter&style=for-the-badge" alt="polska742" /></a> </p>
+
 
 - 🔭 I’m currently working on **My portfolio website**
 
