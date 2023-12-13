@@ -53,20 +53,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 September 2022 - To: 10 December 2023
+From: 11 September 2022 - To: 11 December 2023
 
-Total Time: 71 hrs 1 min
+Total Time: 74 hrs 41 mins
 
-TypeScript        44 hrs 36 mins  ███████████████▒---------   62.76 %
-Java              12 hrs 57 mins  ████░--------------------   18.23 %
-JavaScript        5 hrs 47 mins   ██-----------------------   08.16 %
-HCL               2 hrs 7 mins    ▒------------------------   02.99 %
-Bash              1 hr 49 mins    ▒------------------------   02.57 %
-Solidity          1 hr 19 mins    ░------------------------   01.86 %
-Java Properties   1 hr             ------------------------   01.42 %
-CSV               19 mins         >------------------------   00.45 %
-Markdown          16 mins         >------------------------   00.39 %
-XML               12 mins         -------------------------   00.29 %
+TypeScript        47 hrs 8 mins   ███████████████▓---------   63.07 %
+Java              12 hrs 57 mins  ████ --------------------   17.33 %
+JavaScript        6 hrs 2 mins    ██-----------------------   08.09 %
+Bash              2 hrs 22 mins   ▓------------------------   03.17 %
+HCL               2 hrs 17 mins   ▓------------------------   03.07 %
+Solidity          1 hr 19 mins    ░------------------------   01.78 %
+Java Properties   1 hr 7 mins      ------------------------   01.50 %
+CSV               19 mins         >------------------------   00.43 %
+Markdown          16 mins         >------------------------   00.37 %
+XML               12 mins         -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
