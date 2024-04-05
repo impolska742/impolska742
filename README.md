@@ -53,18 +53,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 September 2022 - To: 03 April 2024
+From: 11 September 2022 - To: 04 April 2024
 
-Total Time: 361 hrs 53 mins
+Total Time: 368 hrs
 
-TypeScript        287 hrs 58 mins ███████████████████▓-----   79.49 %
-Java              34 hrs 58 mins  ██ ----------------------   09.65 %
-JavaScript        17 hrs 59 mins  █>-----------------------   04.97 %
-Bash              4 hrs 29 mins    ------------------------   01.24 %
-HCL               4 hrs 8 mins     ------------------------   01.15 %
-Java Properties   3 hrs 11 mins   >------------------------   00.88 %
-Solidity          2 hrs 6 mins    >------------------------   00.58 %
-CSV               1 hr 48 mins    >------------------------   00.50 %
+TypeScript        294 hrs 3 mins  ████████████████████-----   79.83 %
+Java              34 hrs 58 mins  ██ ----------------------   09.49 %
+JavaScript        18 hrs          █>-----------------------   04.89 %
+Bash              4 hrs 29 mins    ------------------------   01.22 %
+HCL               4 hrs 8 mins     ------------------------   01.13 %
+Java Properties   3 hrs 11 mins   >------------------------   00.87 %
+Solidity          2 hrs 6 mins    >------------------------   00.57 %
+CSV               1 hr 48 mins    >------------------------   00.49 %
+JSON              59 mins         -------------------------   00.27 %
 Go                52 mins         -------------------------   00.24 %
 ```
 
