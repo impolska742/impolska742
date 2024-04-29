@@ -10,15 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/polska742" target="blank"><img src="https://img.shields.io/twitter/follow/polska742?logo=twitter&style=for-the-badge" alt="polska742" /></a> </p>
 
-
-- 🔭 I’m currently working on **My portfolio website**
-
-- 🌱 I’m currently learning **Blockchain and Backend Testing**
-
-- 👯 I’m looking to collaborate on **React Based full-stack projects**
-
-- 🤝 I’m looking for help with **Backend Related Technologies**
-
 - 💬 Ask me about **react, node, web-dev.**
 
 - 📫 How to reach me **vaibhav19bhardwaj@gmail.com**
